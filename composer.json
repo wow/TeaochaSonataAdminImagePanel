@@ -15,14 +15,14 @@
     },
 	"require": {
         "php": "^5.3.9|^7.0",
-        "symfony/symfony": "~2.8",
+        "symfony/symfony": "^3.3",
         "sonata-project/core-bundle": "^2.2.6",
         "sonata-project/admin-bundle": "~2.3,<2.4"
     },
 	"repositories": [
 		{
 			"type": "vcs",
-			"url": "https://github.com/Matteaocha/TeaochaSonataAdminImagePanel"
+			"url": "https://github.com/wow/TeaochaSonataAdminImagePanel"
 		}
 	]
 }
